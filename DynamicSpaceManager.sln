@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicSpaceManager", "DynamicSpaceManager\DynamicSpaceManager.csproj", "{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ComponentsReplacer", "ComponentsReplacer\ComponentsReplacer.shproj", "{72ACB886-0895-4339-8FEA-38F774E02414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Debug|x64.ActiveCfg = Debug|x64
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Debug|x64.Build.0 = Debug|x64
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Release|x64.ActiveCfg = Release|x64
+		{A3F16FA8-E24C-4242-AB0C-17356FA9AE0F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA125783-60EE-4AE8-9115-C3B6D208DB83}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ComponentsReplacer\ComponentsReplacer.projitems*{a3f16fa8-e24c-4242-ab0c-17356fa9ae0f}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal
